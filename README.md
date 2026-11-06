@@ -5,7 +5,7 @@ Teoría de la Computación, UVG
 - Samuel Robledo – 241282
 
 Repositorio: https://github.com/samuelrobledo52/Proyecto2-TC
-Video: (link)
+Video: https://youtu.be/4mUjUEhGcxs
 
 ## Descripción
 
